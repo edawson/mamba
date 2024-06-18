@@ -375,6 +375,7 @@ setup(
         "einops",
         "triton",
         "transformers",
+        "packaging"
         # "causal_conv1d>=1.2.0",
     ],
 )
